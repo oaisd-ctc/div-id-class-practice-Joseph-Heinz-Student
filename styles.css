@@ -1,0 +1,47 @@
+.main-box {
+    height: 100px;
+    width: 100%;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: #111;
+}
+
+#red-box {
+    background: red;
+}
+
+#orange-box {
+    background: orange;
+}
+
+#yellow-box {
+    background: yellow;
+}
+
+#green-box {
+    background: green;
+}
+
+#cyan-box {
+    background: cyan;
+}
+
+#blue-box {
+    background: blue;
+}
+
+#indigo-box {
+    background: blueviolet;
+}
+
+#violet-box {
+    background: purple;
+}
+
+#grey-box {
+    background: grey;
+}
+
+#black-box {
+    background: black;
+}
